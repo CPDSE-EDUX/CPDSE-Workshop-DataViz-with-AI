@@ -59,6 +59,7 @@ renv/staging/
 *.csv.gz
 *.parquet.gz
 *.zip
+!data/Round_*.zip
 *.tar.gz
 # Common raw-data folders teachers accidentally commit:
 data/raw/
