@@ -1,0 +1,73 @@
+group,day,mean_tumor_volume_mm3,sem_mm3,n_mice
+Vehicle,0,102.6,8.8,8
+Vehicle,3,128.3,9.5,8
+Vehicle,7,188.0,18.0,8
+Vehicle,10,231.0,15.7,8
+Vehicle,14,334.0,20.6,8
+Vehicle,17,429.4,37.5,8
+Vehicle,21,634.2,62.6,8
+Vehicle,24,757.2,56.7,8
+Vehicle,28,1100.5,74.4,8
+Compound B 10 mg/kg,0,101.4,8.9,8
+Compound B 10 mg/kg,3,130.1,9.8,8
+Compound B 10 mg/kg,7,174.1,14.8,8
+Compound B 10 mg/kg,10,213.4,13.6,8
+Compound B 10 mg/kg,14,298.5,29.4,8
+Compound B 10 mg/kg,17,401.1,35.3,8
+Compound B 10 mg/kg,21,541.7,53.5,8
+Compound B 10 mg/kg,24,691.2,61.3,8
+Compound B 10 mg/kg,28,938.9,66.6,8
+Compound A 1 mg/kg,0,97.1,9.3,8
+Compound A 1 mg/kg,3,128.4,8.7,8
+Compound A 1 mg/kg,7,171.2,14.2,8
+Compound A 1 mg/kg,10,207.9,19.6,8
+Compound A 1 mg/kg,14,286.4,25.4,8
+Compound A 1 mg/kg,17,360.4,30.7,8
+Compound A 1 mg/kg,21,506.3,43.5,8
+Compound A 1 mg/kg,24,586.4,44.9,8
+Compound A 1 mg/kg,28,822.0,65.6,8
+Compound A 3 mg/kg,0,102.5,6.7,8
+Compound A 3 mg/kg,3,125.0,10.4,8
+Compound A 3 mg/kg,7,149.3,14.5,8
+Compound A 3 mg/kg,10,180.1,13.3,8
+Compound A 3 mg/kg,14,236.1,14.4,8
+Compound A 3 mg/kg,17,265.1,21.0,8
+Compound A 3 mg/kg,21,355.9,22.5,8
+Compound A 3 mg/kg,24,447.4,35.6,8
+Compound A 3 mg/kg,28,543.2,45.0,8
+Compound A 10 mg/kg,0,93.6,6.6,8
+Compound A 10 mg/kg,3,110.0,8.9,8
+Compound A 10 mg/kg,7,129.9,7.9,8
+Compound A 10 mg/kg,10,154.0,14.8,8
+Compound A 10 mg/kg,14,174.2,14.3,8
+Compound A 10 mg/kg,17,187.5,16.3,8
+Compound A 10 mg/kg,21,231.3,20.6,8
+Compound A 10 mg/kg,24,262.2,16.9,8
+Compound A 10 mg/kg,28,301.9,20.9,8
+Compound C 10 mg/kg,0,99.6,8.0,8
+Compound C 10 mg/kg,3,121.5,11.0,8
+Compound C 10 mg/kg,7,142.1,10.7,8
+Compound C 10 mg/kg,10,170.4,15.3,8
+Compound C 10 mg/kg,14,208.2,20.3,8
+Compound C 10 mg/kg,17,232.1,15.1,8
+Compound C 10 mg/kg,21,313.4,20.7,8
+Compound C 10 mg/kg,24,344.3,28.9,8
+Compound C 10 mg/kg,28,414.6,30.0,8
+Standard of care,0,101.9,10.1,8
+Standard of care,3,117.9,7.8,8
+Standard of care,7,148.4,10.3,8
+Standard of care,10,173.8,15.1,8
+Standard of care,14,202.7,16.3,8
+Standard of care,17,248.3,20.7,8
+Standard of care,21,309.0,28.5,8
+Standard of care,24,384.6,34.4,8
+Standard of care,28,466.9,30.3,8
+Compound A 10 + C 3,0,101.5,7.7,8
+Compound A 10 + C 3,3,115.0,9.2,8
+Compound A 10 + C 3,7,144.2,14.2,8
+Compound A 10 + C 3,10,123.4,12.0,8
+Compound A 10 + C 3,14,102.9,8.5,8
+Compound A 10 + C 3,17,91.0,5.8,8
+Compound A 10 + C 3,21,75.8,5.8,8
+Compound A 10 + C 3,24,71.0,6.0,8
+Compound A 10 + C 3,28,53.7,5.0,8

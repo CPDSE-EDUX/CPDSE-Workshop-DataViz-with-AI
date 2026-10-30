@@ -1,0 +1,651 @@
+patient_id,treatment,severity,subtype,responded,marker_reduction_pct,dose_mg,pfs_months,qol_score_week12
+P001,A,Severe,Large cell,1,72.7,160,12.6,74.1
+P002,A,Moderate,Adenocarcinoma,1,51.2,129,8.8,64.2
+P003,A,Mild,Adenocarcinoma,1,47.4,118,16.2,74.0
+P004,B,Mild,Adenocarcinoma,1,58.9,126,26.4,42.8
+P005,A,Mild,Adenocarcinoma,1,54.2,125,27.1,81.6
+P006,B,Moderate,Squamous,0,17.6,135,15.6,24.9
+P007,B,Mild,Adenocarcinoma,1,55.1,104,27.8,69.4
+P008,A,Moderate,Small cell,1,60.3,120,15.4,72.6
+P009,B,Moderate,Large cell,0,0.6,117,14.1,59.5
+P010,B,Mild,Adenocarcinoma,1,37.2,104,23.5,7.9
+P011,A,Moderate,Squamous,1,57.2,125,15.3,66.3
+P012,A,Severe,Adenocarcinoma,1,62.5,139,10.4,29.1
+P013,B,Mild,Squamous,1,45.9,86,21.2,54.8
+P014,A,Severe,Adenocarcinoma,1,28.1,174,10.2,55.9
+P015,A,Moderate,Squamous,0,0.3,129,26.8,26.4
+P016,A,Moderate,Small cell,1,48.8,112,9.9,24.7
+P017,B,Mild,Squamous,1,54.5,102,28.7,88.8
+P018,B,Mild,Squamous,1,43.4,147,21.7,83.0
+P019,B,Mild,Squamous,1,43.3,120,23.8,66.4
+P020,B,Mild,Other,1,36.6,99,15.3,47.2
+P021,B,Mild,Squamous,1,66.9,128,21.5,52.3
+P022,A,Moderate,Squamous,1,31.8,135,17.7,65.5
+P023,A,Mild,Adenocarcinoma,1,57.0,144,29.8,38.7
+P024,A,Mild,Other,1,52.2,89,20.4,42.0
+P025,A,Moderate,Adenocarcinoma,1,61.3,149,13.8,31.5
+P026,B,Mild,Small cell,0,10.2,103,23.2,15.9
+P027,B,Moderate,Squamous,0,12.3,101,10.3,69.0
+P028,A,Severe,Small cell,0,11.9,119,9.6,63.1
+P029,B,Mild,Adenocarcinoma,0,7.2,100,25.4,43.9
+P030,B,Mild,Adenocarcinoma,1,72.4,112,25.2,29.4
+P031,B,Mild,Adenocarcinoma,1,50.1,108,25.5,12.9
+P032,B,Mild,Squamous,1,44.9,108,19.4,42.3
+P033,B,Moderate,Squamous,1,39.6,151,22.1,22.5
+P034,B,Mild,Small cell,1,42.7,151,25.8,81.3
+P035,A,Moderate,Squamous,1,72.6,120,11.1,36.7
+P036,B,Mild,Squamous,1,41.0,41,12.9,63.7
+P037,B,Mild,Other,1,41.0,119,20.6,66.4
+P038,A,Severe,Squamous,0,5.5,103,9.4,56.9
+P039,B,Mild,Squamous,1,56.2,99,20.9,89.6
+P040,B,Mild,Small cell,1,40.1,102,21.9,65.8
+P041,B,Mild,Large cell,0,14.8,119,17.6,52.0
+P042,B,Mild,Adenocarcinoma,1,49.2,106,20.9,77.6
+P043,A,Severe,Large cell,0,22.2,170,9.0,68.6
+P044,B,Mild,Small cell,0,10.7,139,27.5,4.9
+P045,A,Severe,Squamous,1,39.4,179,10.9,82.8
+P046,B,Moderate,Other,0,8.0,145,19.4,53.8
+P047,B,Mild,Adenocarcinoma,1,54.2,83,19.9,6.7
+P048,A,Moderate,Adenocarcinoma,1,50.9,122,13.0,83.4
+P049,A,Mild,Small cell,1,73.0,96,16.9,67.8
+P050,A,Severe,Adenocarcinoma,0,3.3,142,11.5,73.4
+P051,A,Moderate,Squamous,0,13.2,116,10.4,28.3
+P052,A,Moderate,Adenocarcinoma,1,66.1,149,17.2,29.0
+P053,B,Mild,Adenocarcinoma,1,43.4,110,22.2,21.1
+P054,B,Mild,Squamous,1,52.4,100,24.3,58.2
+P055,A,Mild,Adenocarcinoma,1,46.6,100,22.3,14.8
+P056,B,Mild,Adenocarcinoma,1,53.4,84,15.2,84.6
+P057,A,Moderate,Large cell,1,69.6,123,23.1,16.0
+P058,A,Mild,Adenocarcinoma,1,52.0,113,30.0,65.9
+P059,B,Mild,Small cell,0,11.5,118,25.2,28.4
+P060,B,Severe,Adenocarcinoma,1,49.9,140,10.1,42.7
+P061,A,Moderate,Adenocarcinoma,1,68.1,162,23.7,82.4
+P062,A,Severe,Small cell,0,8.4,139,8.5,63.3
+P063,B,Severe,Adenocarcinoma,0,22.9,174,11.1,75.4
+P064,A,Moderate,Squamous,1,40.4,147,15.1,43.2
+P065,B,Mild,Adenocarcinoma,1,71.7,121,29.2,67.6
+P066,A,Mild,Adenocarcinoma,1,56.7,125,25.1,71.5
+P067,B,Moderate,Small cell,0,17.6,133,16.9,53.9
+P068,B,Moderate,Squamous,0,2.3,130,21.1,80.2
+P069,A,Severe,Adenocarcinoma,1,54.0,171,14.1,83.2
+P070,B,Mild,Large cell,1,39.0,87,19.4,65.0
+P071,A,Moderate,Squamous,0,3.6,135,17.6,72.3
+P072,B,Mild,Adenocarcinoma,1,53.4,86,23.4,29.7
+P073,A,Moderate,Adenocarcinoma,1,36.7,177,16.4,81.7
+P074,B,Mild,Squamous,1,63.2,111,28.8,48.6
+P075,A,Moderate,Adenocarcinoma,0,12.2,122,15.0,26.4
+P076,A,Severe,Other,0,2.6,153,13.2,32.1
+P077,A,Moderate,Squamous,1,62.5,123,19.8,74.3
+P078,B,Moderate,Adenocarcinoma,0,5.5,96,16.6,5.5
+P079,B,Mild,Squamous,1,51.1,117,23.0,51.1
+P080,B,Mild,Small cell,1,38.1,117,23.7,65.0
+P081,A,Severe,Squamous,0,17.5,174,11.3,23.2
+P082,A,Severe,Adenocarcinoma,1,46.6,149,6.1,23.6
+P083,A,Moderate,Adenocarcinoma,1,60.6,110,14.5,30.0
+P084,B,Moderate,Squamous,1,36.8,102,11.8,54.5
+P085,B,Mild,Squamous,1,50.7,86,19.4,24.2
+P086,A,Severe,Other,0,-0.7,152,14.5,34.7
+P087,B,Mild,Squamous,1,51.7,75,19.5,43.6
+P088,B,Moderate,Adenocarcinoma,0,17.6,146,23.1,28.0
+P089,B,Severe,Squamous,0,18.8,175,8.0,81.4
+P090,A,Moderate,Adenocarcinoma,1,61.5,121,18.2,73.3
+P091,A,Moderate,Adenocarcinoma,1,52.5,147,19.3,76.4
+P092,B,Moderate,Squamous,1,52.2,135,18.2,33.4
+P093,B,Mild,Small cell,0,0.7,96,22.5,34.6
+P094,B,Moderate,Squamous,1,55.8,145,17.0,63.0
+P095,B,Mild,Adenocarcinoma,1,52.4,131,14.7,74.8
+P096,B,Mild,Large cell,0,12.0,104,28.5,71.4
+P097,B,Mild,Small cell,0,17.7,126,29.3,80.0
+P098,B,Mild,Adenocarcinoma,1,57.8,113,19.1,16.7
+P099,B,Moderate,Large cell,0,12.0,121,21.6,37.5
+P100,B,Mild,Large cell,1,68.4,77,17.0,58.2
+P101,B,Mild,Squamous,1,61.2,79,18.7,8.4
+P102,A,Mild,Adenocarcinoma,1,53.9,102,24.4,20.2
+P103,B,Mild,Other,1,43.7,95,27.8,22.7
+P104,B,Mild,Small cell,1,54.8,122,22.3,58.5
+P105,B,Moderate,Large cell,1,39.4,112,10.3,25.6
+P106,B,Mild,Adenocarcinoma,1,44.6,112,30.1,75.3
+P107,A,Severe,Adenocarcinoma,0,4.7,147,7.2,38.4
+P108,B,Mild,Squamous,1,53.9,109,21.1,69.5
+P109,A,Severe,Small cell,0,-4.8,134,3.1,82.3
+P110,A,Severe,Adenocarcinoma,1,41.6,149,16.1,17.4
+P111,B,Severe,Squamous,1,43.6,172,16.2,18.7
+P112,B,Moderate,Squamous,0,16.2,134,19.0,59.0
+P113,B,Mild,Squamous,1,51.3,128,24.3,34.2
+P114,B,Mild,Adenocarcinoma,1,40.3,115,22.0,19.4
+P115,B,Mild,Small cell,1,55.9,131,21.4,52.8
+P116,B,Mild,Squamous,1,45.4,122,27.0,35.5
+P117,A,Moderate,Large cell,1,55.8,145,20.7,22.9
+P118,A,Moderate,Squamous,0,-2.6,122,14.4,60.1
+P119,B,Mild,Squamous,1,53.8,103,21.1,44.5
+P120,B,Mild,Adenocarcinoma,1,48.7,90,19.9,75.3
+P121,B,Moderate,Small cell,0,9.8,119,12.8,14.7
+P122,B,Mild,Small cell,1,41.0,117,20.9,69.4
+P123,B,Moderate,Adenocarcinoma,1,41.9,135,22.6,5.3
+P124,A,Mild,Small cell,0,6.1,141,25.6,59.9
+P125,B,Mild,Squamous,1,51.8,129,25.4,17.8
+P126,A,Moderate,Other,1,54.6,173,26.3,18.5
+P127,B,Mild,Squamous,1,46.8,130,24.2,52.1
+P128,A,Moderate,Squamous,1,54.6,126,18.6,26.2
+P129,A,Moderate,Adenocarcinoma,1,70.1,130,16.2,38.7
+P130,B,Mild,Adenocarcinoma,1,44.7,123,19.7,17.9
+P131,B,Mild,Small cell,0,9.8,74,16.6,57.7
+P132,A,Moderate,Small cell,1,41.6,109,15.1,31.9
+P133,B,Severe,Large cell,1,62.0,135,9.1,16.2
+P134,B,Severe,Other,0,9.2,114,13.3,84.6
+P135,B,Moderate,Large cell,1,53.4,137,14.6,27.3
+P136,B,Mild,Small cell,1,37.8,116,27.8,32.9
+P137,A,Severe,Adenocarcinoma,1,51.9,165,12.0,19.6
+P138,A,Severe,Adenocarcinoma,0,15.1,161,15.1,61.7
+P139,B,Mild,Adenocarcinoma,1,66.4,88,16.2,42.3
+P140,A,Moderate,Adenocarcinoma,1,53.3,119,19.7,35.5
+P141,A,Severe,Small cell,0,1.0,177,13.7,56.8
+P142,A,Severe,Squamous,0,8.3,177,16.8,22.0
+P143,B,Mild,Small cell,1,60.2,109,20.3,42.6
+P144,A,Severe,Other,0,1.4,139,10.4,40.0
+P145,B,Mild,Squamous,1,45.8,136,28.1,44.8
+P146,B,Mild,Small cell,1,68.3,87,16.8,93.4
+P147,B,Mild,Adenocarcinoma,1,35.9,125,24.9,39.8
+P148,B,Mild,Squamous,1,67.6,93,24.1,23.2
+P149,B,Moderate,Squamous,0,6.1,155,21.9,27.6
+P150,A,Moderate,Squamous,0,11.0,132,21.9,22.4
+P151,B,Mild,Adenocarcinoma,1,53.3,103,20.4,48.3
+P152,A,Moderate,Adenocarcinoma,1,44.1,114,22.4,56.4
+P153,A,Mild,Adenocarcinoma,1,57.5,149,26.0,83.0
+P154,B,Mild,Squamous,1,69.4,121,25.5,67.7
+P155,B,Mild,Squamous,1,50.8,127,28.7,75.3
+P156,B,Mild,Small cell,0,3.2,123,23.8,76.8
+P157,B,Mild,Adenocarcinoma,1,39.6,101,18.8,34.4
+P158,A,Severe,Adenocarcinoma,0,-3.0,103,7.0,35.0
+P159,B,Mild,Small cell,1,41.7,95,22.0,48.1
+P160,A,Moderate,Other,1,61.9,128,13.3,21.9
+P161,B,Mild,Adenocarcinoma,1,62.0,101,23.8,72.0
+P162,B,Moderate,Adenocarcinoma,1,40.6,133,14.2,76.8
+P163,B,Mild,Adenocarcinoma,0,8.6,97,24.0,50.6
+P164,B,Mild,Small cell,1,54.6,115,24.5,53.7
+P165,B,Moderate,Adenocarcinoma,1,51.1,127,19.5,28.3
+P166,A,Severe,Large cell,1,65.8,152,20.1,9.0
+P167,A,Moderate,Other,1,48.2,122,13.9,27.2
+P168,B,Mild,Adenocarcinoma,1,44.9,140,25.2,53.1
+P169,A,Moderate,Squamous,0,10.7,116,17.5,66.2
+P170,A,Severe,Small cell,1,61.3,108,9.3,32.1
+P171,A,Severe,Adenocarcinoma,1,56.3,151,12.0,21.9
+P172,B,Mild,Large cell,1,38.7,96,26.5,24.7
+P173,A,Mild,Large cell,1,34.8,116,23.5,34.7
+P174,A,Moderate,Squamous,0,5.0,137,14.7,32.9
+P175,B,Mild,Adenocarcinoma,1,52.2,108,17.6,13.2
+P176,B,Mild,Adenocarcinoma,1,45.4,90,22.5,71.9
+P177,B,Mild,Squamous,1,60.8,112,25.8,12.8
+P178,A,Moderate,Large cell,1,49.7,118,15.7,51.4
+P179,B,Moderate,Large cell,0,11.8,118,16.9,25.8
+P180,B,Mild,Squamous,1,60.5,124,27.9,68.9
+P181,B,Mild,Adenocarcinoma,1,37.2,120,21.1,32.4
+P182,A,Severe,Squamous,0,11.6,154,7.7,32.8
+P183,B,Mild,Large cell,1,56.1,75,20.8,34.0
+P184,A,Mild,Squamous,1,47.3,111,25.7,69.7
+P185,A,Moderate,Squamous,1,58.5,145,13.8,33.2
+P186,A,Severe,Squamous,0,-0.3,134,9.6,29.7
+P187,A,Moderate,Large cell,0,-0.8,131,18.5,24.7
+P188,A,Severe,Adenocarcinoma,1,54.5,126,8.2,24.4
+P189,B,Moderate,Adenocarcinoma,1,40.7,141,24.5,44.7
+P190,B,Mild,Squamous,1,33.9,87,26.8,62.7
+P191,A,Severe,Squamous,1,56.5,145,5.5,70.5
+P192,A,Severe,Adenocarcinoma,1,51.0,174,9.1,26.2
+P193,B,Severe,Squamous,0,14.5,129,11.7,97.5
+P194,B,Mild,Small cell,1,43.9,128,24.6,72.3
+P195,B,Moderate,Adenocarcinoma,1,55.4,117,10.6,43.3
+P196,A,Severe,Large cell,1,51.3,151,2.8,13.8
+P197,A,Severe,Squamous,0,10.1,123,12.5,56.7
+P198,A,Severe,Adenocarcinoma,1,41.2,161,16.0,78.0
+P199,B,Mild,Squamous,1,59.4,117,19.4,83.1
+P200,A,Severe,Squamous,0,-0.8,158,5.2,68.0
+P201,B,Mild,Large cell,1,45.5,122,28.6,81.8
+P202,B,Moderate,Squamous,1,41.5,111,19.0,2.1
+P203,B,Mild,Other,1,50.4,110,22.3,40.1
+P204,A,Moderate,Large cell,1,43.3,94,13.4,23.8
+P205,A,Severe,Adenocarcinoma,1,41.6,165,6.0,62.1
+P206,A,Severe,Adenocarcinoma,0,8.0,140,7.6,46.1
+P207,A,Moderate,Small cell,1,62.1,100,18.1,75.8
+P208,B,Severe,Adenocarcinoma,0,5.9,150,10.9,28.0
+P209,A,Severe,Squamous,0,0.1,167,9.6,71.8
+P210,A,Moderate,Squamous,1,50.2,188,19.9,84.4
+P211,B,Mild,Other,0,-5.1,88,23.3,37.7
+P212,B,Mild,Adenocarcinoma,1,35.8,116,20.0,37.1
+P213,A,Moderate,Squamous,0,10.9,113,18.5,80.0
+P214,A,Moderate,Large cell,1,58.1,135,18.8,86.0
+P215,A,Severe,Adenocarcinoma,0,4.9,165,10.0,22.8
+P216,A,Severe,Small cell,0,-0.8,172,12.9,66.4
+P217,A,Severe,Adenocarcinoma,0,-9.4,163,8.8,71.2
+P218,B,Moderate,Large cell,1,53.3,143,19.0,50.4
+P219,B,Moderate,Large cell,0,0.5,175,20.0,26.1
+P220,A,Severe,Large cell,0,13.7,178,15.5,48.1
+P221,B,Severe,Squamous,0,15.9,178,14.1,63.6
+P222,B,Moderate,Squamous,0,18.0,139,10.0,23.3
+P223,B,Severe,Squamous,0,17.6,127,12.9,47.7
+P224,A,Severe,Adenocarcinoma,1,51.3,158,14.4,22.5
+P225,B,Mild,Adenocarcinoma,1,43.5,106,25.5,16.9
+P226,A,Severe,Adenocarcinoma,1,45.3,144,10.4,21.8
+P227,B,Severe,Adenocarcinoma,0,7.5,172,16.6,87.0
+P228,A,Moderate,Squamous,1,43.6,122,16.6,43.1
+P229,B,Mild,Squamous,1,47.1,115,22.9,75.6
+P230,A,Mild,Squamous,1,58.8,109,19.7,79.3
+P231,A,Severe,Squamous,0,13.5,161,8.3,57.4
+P232,B,Moderate,Other,1,46.1,113,20.1,34.0
+P233,B,Moderate,Adenocarcinoma,1,46.7,163,26.2,12.2
+P234,A,Mild,Squamous,1,50.2,117,21.7,25.6
+P235,B,Mild,Adenocarcinoma,1,52.3,124,29.6,92.2
+P236,B,Moderate,Adenocarcinoma,1,56.0,132,15.8,52.8
+P237,A,Severe,Small cell,0,6.3,120,2.8,14.6
+P238,A,Severe,Squamous,0,10.4,181,8.4,85.8
+P239,A,Severe,Squamous,1,54.5,138,9.1,7.3
+P240,A,Severe,Other,1,55.0,155,6.9,74.6
+P241,A,Moderate,Small cell,1,38.8,140,19.9,32.0
+P242,A,Mild,Adenocarcinoma,1,50.9,111,21.0,13.6
+P243,B,Mild,Adenocarcinoma,0,16.0,103,15.8,1.6
+P244,B,Severe,Adenocarcinoma,1,46.4,161,10.1,66.2
+P245,B,Moderate,Squamous,1,22.5,105,14.9,97.9
+P246,A,Moderate,Adenocarcinoma,0,8.2,139,18.9,76.1
+P247,B,Mild,Adenocarcinoma,1,37.5,121,27.9,16.5
+P248,B,Mild,Squamous,1,50.2,100,22.9,80.2
+P249,A,Moderate,Adenocarcinoma,1,49.2,134,12.2,74.0
+P250,A,Severe,Squamous,0,5.1,169,11.3,36.7
+P251,B,Mild,Large cell,1,40.7,114,24.3,71.8
+P252,B,Moderate,Adenocarcinoma,1,52.1,115,18.6,20.9
+P253,A,Severe,Squamous,1,47.7,167,12.9,62.3
+P254,A,Moderate,Other,1,58.9,78,17.5,64.0
+P255,A,Moderate,Adenocarcinoma,1,49.9,127,14.4,76.9
+P256,A,Moderate,Large cell,1,50.5,119,12.2,21.4
+P257,B,Mild,Large cell,1,50.0,103,24.5,30.3
+P258,A,Severe,Adenocarcinoma,0,-5.8,130,10.0,19.4
+P259,A,Moderate,Adenocarcinoma,1,30.0,119,15.1,56.9
+P260,B,Mild,Adenocarcinoma,1,62.5,103,23.4,61.4
+P261,A,Mild,Small cell,1,46.5,128,24.3,62.6
+P262,B,Mild,Small cell,1,54.4,126,29.3,12.0
+P263,B,Mild,Large cell,1,50.1,84,23.5,85.2
+P264,A,Severe,Adenocarcinoma,1,63.9,144,9.8,31.9
+P265,B,Mild,Adenocarcinoma,1,39.9,127,23.5,50.5
+P266,B,Moderate,Squamous,1,53.0,118,20.4,64.5
+P267,B,Mild,Adenocarcinoma,1,56.1,129,25.9,77.7
+P268,A,Severe,Adenocarcinoma,0,-5.3,201,11.6,70.3
+P269,B,Mild,Squamous,1,50.9,81,19.9,60.1
+P270,B,Mild,Adenocarcinoma,1,50.2,90,22.6,72.9
+P271,A,Moderate,Squamous,0,2.4,119,14.0,30.2
+P272,A,Severe,Adenocarcinoma,1,65.1,150,8.1,67.2
+P273,A,Severe,Small cell,0,18.9,115,5.7,72.3
+P274,B,Mild,Small cell,1,50.8,123,24.8,96.4
+P275,B,Mild,Adenocarcinoma,1,65.4,127,30.2,44.4
+P276,A,Severe,Small cell,0,16.6,166,12.1,34.9
+P277,B,Mild,Adenocarcinoma,0,9.8,97,23.5,41.2
+P278,B,Mild,Squamous,1,62.3,139,30.3,81.6
+P279,B,Moderate,Large cell,1,41.9,147,15.5,31.7
+P280,A,Severe,Small cell,0,10.3,160,14.3,82.6
+P281,A,Severe,Large cell,0,7.5,172,8.3,64.3
+P282,A,Severe,Adenocarcinoma,1,49.4,138,10.5,72.9
+P283,A,Moderate,Small cell,0,5.4,132,15.1,35.9
+P284,B,Mild,Adenocarcinoma,1,52.5,119,22.7,47.8
+P285,A,Severe,Squamous,1,44.6,170,10.9,64.2
+P286,B,Mild,Large cell,1,48.6,114,16.0,77.0
+P287,A,Mild,Squamous,1,53.2,114,21.0,35.1
+P288,B,Mild,Other,1,43.1,123,23.4,44.5
+P289,A,Moderate,Adenocarcinoma,0,8.8,152,16.9,28.7
+P290,A,Severe,Adenocarcinoma,0,0.8,124,9.8,20.2
+P291,A,Severe,Adenocarcinoma,1,59.1,160,9.2,30.2
+P292,A,Mild,Squamous,1,77.1,87,23.8,16.5
+P293,B,Severe,Adenocarcinoma,0,16.9,169,15.1,46.0
+P294,A,Moderate,Adenocarcinoma,1,43.9,132,17.1,62.5
+P295,B,Mild,Squamous,1,25.1,139,28.2,36.4
+P296,A,Moderate,Large cell,1,62.0,114,12.0,15.2
+P297,B,Mild,Squamous,1,46.3,121,26.5,80.2
+P298,A,Severe,Large cell,0,12.2,139,7.5,28.8
+P299,A,Moderate,Adenocarcinoma,1,44.6,147,17.3,28.8
+P300,A,Severe,Squamous,0,1.4,165,8.4,65.6
+P301,A,Severe,Squamous,0,7.8,132,3.6,26.1
+P302,B,Mild,Adenocarcinoma,1,58.1,110,21.6,23.8
+P303,B,Mild,Adenocarcinoma,0,12.9,80,21.2,39.1
+P304,B,Severe,Large cell,0,8.6,141,9.5,95.9
+P305,A,Moderate,Adenocarcinoma,1,57.4,155,22.4,68.9
+P306,B,Moderate,Small cell,0,4.6,139,16.6,80.5
+P307,B,Mild,Adenocarcinoma,1,34.5,89,19.0,30.0
+P308,A,Severe,Adenocarcinoma,1,49.3,143,14.9,23.2
+P309,B,Mild,Adenocarcinoma,1,53.1,93,19.8,27.2
+P310,A,Moderate,Small cell,1,51.4,130,18.4,64.8
+P311,A,Moderate,Adenocarcinoma,1,49.3,149,23.2,18.4
+P312,B,Mild,Small cell,1,36.9,107,29.5,79.9
+P313,A,Mild,Adenocarcinoma,1,41.0,122,21.2,32.4
+P314,B,Mild,Adenocarcinoma,1,41.5,92,20.1,61.3
+P315,A,Moderate,Squamous,1,66.1,125,19.4,52.6
+P316,A,Severe,Adenocarcinoma,1,56.1,135,7.8,23.1
+P317,A,Mild,Other,1,49.8,95,22.7,19.3
+P318,B,Mild,Squamous,1,65.0,84,22.8,35.9
+P319,B,Mild,Adenocarcinoma,1,52.4,96,21.1,3.9
+P320,B,Mild,Small cell,1,55.3,118,24.6,24.2
+P321,A,Moderate,Large cell,1,61.6,180,17.8,17.4
+P322,B,Mild,Large cell,1,38.7,73,15.4,11.0
+P323,A,Severe,Adenocarcinoma,0,16.6,165,8.4,14.2
+P324,B,Severe,Adenocarcinoma,0,-4.3,168,11.7,76.9
+P325,A,Severe,Large cell,0,5.2,163,6.7,82.0
+P326,B,Moderate,Other,1,56.5,149,22.5,46.0
+P327,A,Severe,Adenocarcinoma,1,64.5,133,14.3,74.1
+P328,B,Mild,Adenocarcinoma,1,47.0,157,26.8,74.2
+P329,B,Mild,Adenocarcinoma,1,49.5,93,19.6,72.3
+P330,A,Severe,Small cell,1,58.6,145,14.1,28.5
+P331,B,Mild,Large cell,1,48.7,143,24.2,54.2
+P332,B,Mild,Adenocarcinoma,0,16.4,106,17.8,45.3
+P333,A,Severe,Squamous,1,42.3,141,11.9,72.5
+P334,A,Moderate,Small cell,0,2.0,94,16.5,37.6
+P335,B,Mild,Small cell,0,1.4,126,28.5,53.1
+P336,A,Moderate,Adenocarcinoma,1,45.9,120,10.7,68.2
+P337,B,Mild,Squamous,1,49.5,105,19.0,90.1
+P338,B,Mild,Small cell,1,45.0,78,17.8,11.5
+P339,A,Mild,Other,1,56.8,85,27.7,37.5
+P340,A,Severe,Small cell,0,3.3,163,15.1,70.7
+P341,A,Moderate,Small cell,0,6.0,110,20.2,30.2
+P342,A,Severe,Adenocarcinoma,1,69.4,143,13.4,74.8
+P343,B,Mild,Adenocarcinoma,1,57.7,92,23.7,4.4
+P344,B,Mild,Squamous,1,52.6,80,20.0,57.0
+P345,A,Moderate,Adenocarcinoma,1,49.0,126,11.9,92.5
+P346,A,Moderate,Adenocarcinoma,1,46.1,130,15.0,59.2
+P347,A,Severe,Squamous,0,8.9,143,13.0,63.8
+P348,B,Mild,Squamous,1,57.6,133,24.2,28.9
+P349,A,Severe,Small cell,0,6.5,173,16.3,71.0
+P350,B,Severe,Squamous,0,17.3,163,17.6,9.8
+P351,B,Moderate,Small cell,0,20.2,103,19.5,73.2
+P352,A,Severe,Small cell,1,52.1,157,10.2,25.8
+P353,B,Mild,Squamous,1,61.2,107,26.3,0.8
+P354,B,Moderate,Adenocarcinoma,1,35.0,152,21.2,43.3
+P355,B,Mild,Squamous,1,52.8,89,16.2,17.0
+P356,A,Severe,Large cell,0,1.1,151,13.3,71.2
+P357,B,Mild,Adenocarcinoma,1,47.7,98,25.1,68.7
+P358,B,Mild,Adenocarcinoma,0,11.4,121,25.6,69.3
+P359,B,Mild,Adenocarcinoma,1,52.8,97,26.3,26.0
+P360,B,Mild,Squamous,1,44.2,128,29.2,72.2
+P361,B,Moderate,Adenocarcinoma,1,35.7,137,13.2,31.5
+P362,B,Mild,Large cell,1,38.2,117,26.7,49.7
+P363,A,Severe,Adenocarcinoma,1,64.5,148,6.9,73.9
+P364,B,Mild,Adenocarcinoma,1,58.4,120,26.1,57.2
+P365,B,Severe,Adenocarcinoma,0,19.9,128,6.7,54.2
+P366,B,Mild,Squamous,1,52.2,84,22.1,73.5
+P367,B,Mild,Squamous,0,8.4,113,29.4,95.8
+P368,A,Severe,Squamous,0,21.1,134,14.4,36.7
+P369,A,Mild,Adenocarcinoma,1,68.2,106,23.6,71.8
+P370,A,Mild,Adenocarcinoma,1,41.0,88,21.3,31.3
+P371,B,Mild,Large cell,1,40.5,101,21.9,15.3
+P372,B,Moderate,Squamous,0,17.9,133,19.0,85.6
+P373,B,Moderate,Large cell,1,63.2,145,18.1,94.8
+P374,A,Moderate,Small cell,0,11.3,114,19.3,68.6
+P375,B,Moderate,Adenocarcinoma,1,39.2,132,15.0,33.6
+P376,B,Mild,Adenocarcinoma,1,39.2,135,26.0,35.1
+P377,B,Severe,Large cell,1,45.5,163,6.2,6.3
+P378,B,Mild,Squamous,1,56.1,99,29.2,51.2
+P379,A,Mild,Small cell,1,61.2,119,25.4,28.8
+P380,A,Severe,Adenocarcinoma,1,63.1,137,9.5,29.3
+P381,B,Mild,Adenocarcinoma,1,33.4,117,23.3,39.4
+P382,A,Severe,Adenocarcinoma,1,53.2,148,4.7,35.6
+P383,B,Mild,Large cell,1,34.5,96,20.3,17.1
+P384,B,Moderate,Other,0,15.1,140,19.6,66.9
+P385,A,Mild,Small cell,1,62.3,110,20.4,26.0
+P386,B,Moderate,Adenocarcinoma,1,45.3,117,16.8,27.3
+P387,B,Moderate,Large cell,1,58.2,106,14.2,47.8
+P388,A,Severe,Adenocarcinoma,0,16.3,144,9.6,71.7
+P389,B,Mild,Adenocarcinoma,1,48.3,139,24.8,66.1
+P390,A,Moderate,Adenocarcinoma,0,6.7,145,23.7,65.8
+P391,A,Severe,Other,0,2.7,159,11.7,67.5
+P392,B,Mild,Other,1,58.0,87,26.8,6.0
+P393,B,Moderate,Adenocarcinoma,1,33.0,110,8.2,71.2
+P394,B,Moderate,Adenocarcinoma,1,51.8,149,13.3,54.6
+P395,B,Mild,Adenocarcinoma,1,31.3,88,18.7,86.4
+P396,B,Moderate,Other,1,47.3,108,7.5,55.8
+P397,B,Severe,Squamous,0,-0.1,153,12.8,61.8
+P398,A,Severe,Squamous,1,81.3,163,11.8,68.8
+P399,B,Mild,Squamous,1,47.7,102,20.3,83.4
+P400,B,Mild,Squamous,1,31.1,131,27.4,46.3
+P401,A,Severe,Squamous,0,2.2,141,11.2,23.6
+P402,B,Severe,Squamous,1,50.4,128,10.8,63.5
+P403,A,Severe,Adenocarcinoma,0,-6.2,130,8.7,44.1
+P404,A,Moderate,Large cell,0,5.5,125,7.0,30.7
+P405,B,Mild,Other,1,45.7,121,23.6,46.6
+P406,B,Mild,Adenocarcinoma,1,69.4,95,19.1,80.2
+P407,A,Severe,Squamous,0,11.2,147,9.9,29.6
+P408,A,Moderate,Squamous,1,66.6,137,17.8,83.8
+P409,A,Mild,Squamous,1,42.4,120,24.4,59.9
+P410,B,Moderate,Squamous,1,55.5,104,9.8,98.1
+P411,A,Severe,Squamous,0,1.5,157,12.7,56.9
+P412,B,Mild,Small cell,1,65.2,109,18.1,82.7
+P413,A,Severe,Squamous,1,52.9,136,6.9,65.3
+P414,B,Mild,Adenocarcinoma,1,60.5,121,20.8,50.1
+P415,B,Mild,Squamous,1,36.7,85,18.0,21.8
+P416,A,Moderate,Small cell,0,21.6,134,22.6,75.0
+P417,A,Severe,Adenocarcinoma,1,56.8,140,13.9,50.4
+P418,B,Mild,Large cell,1,37.5,101,20.6,90.3
+P419,A,Severe,Adenocarcinoma,1,50.3,134,12.3,12.5
+P420,A,Severe,Squamous,1,61.0,140,13.3,89.9
+P421,A,Moderate,Large cell,1,49.8,122,22.2,11.5
+P422,B,Severe,Adenocarcinoma,0,8.6,153,11.3,26.9
+P423,B,Moderate,Adenocarcinoma,1,57.1,108,19.6,7.6
+P424,A,Moderate,Adenocarcinoma,1,44.2,135,17.6,67.8
+P425,A,Severe,Other,1,53.6,150,9.2,68.4
+P426,B,Mild,Adenocarcinoma,1,51.3,100,23.4,26.4
+P427,A,Moderate,Large cell,0,8.2,116,15.3,49.3
+P428,A,Moderate,Adenocarcinoma,1,56.1,170,19.8,29.3
+P429,A,Mild,Squamous,0,17.3,105,25.7,78.1
+P430,A,Severe,Small cell,0,5.9,133,14.4,37.9
+P431,B,Mild,Squamous,1,52.1,110,19.0,63.0
+P432,B,Moderate,Adenocarcinoma,1,47.3,127,14.4,43.1
+P433,A,Severe,Squamous,0,6.7,162,10.4,84.8
+P434,B,Mild,Squamous,1,58.7,123,17.4,55.3
+P435,A,Moderate,Adenocarcinoma,1,49.8,122,18.3,78.2
+P436,B,Moderate,Squamous,1,59.3,139,17.9,36.0
+P437,B,Mild,Adenocarcinoma,1,45.0,123,26.8,19.9
+P438,B,Moderate,Adenocarcinoma,1,54.1,130,17.7,41.4
+P439,B,Mild,Adenocarcinoma,1,51.4,126,24.9,1.9
+P440,A,Moderate,Large cell,1,58.7,84,7.9,44.5
+P441,A,Moderate,Squamous,0,6.9,118,18.4,60.5
+P442,A,Mild,Adenocarcinoma,1,52.3,111,25.3,80.0
+P443,A,Severe,Other,0,9.9,168,14.3,73.9
+P444,A,Severe,Squamous,1,63.8,133,12.5,31.0
+P445,A,Moderate,Adenocarcinoma,1,60.6,106,10.6,27.7
+P446,B,Severe,Squamous,1,35.1,142,2.4,20.3
+P447,A,Severe,Squamous,1,39.0,179,21.4,40.7
+P448,A,Severe,Large cell,1,35.2,146,9.2,71.8
+P449,B,Moderate,Squamous,1,45.8,92,15.6,76.7
+P450,B,Mild,Small cell,1,44.9,96,17.5,19.3
+P451,A,Moderate,Small cell,0,-4.4,104,14.3,65.8
+P452,A,Severe,Adenocarcinoma,1,50.9,145,9.9,34.9
+P453,B,Mild,Squamous,1,44.8,98,15.7,61.6
+P454,B,Mild,Squamous,1,53.5,134,27.5,49.1
+P455,A,Moderate,Small cell,0,6.2,118,11.0,62.9
+P456,B,Mild,Adenocarcinoma,1,57.9,90,23.5,14.4
+P457,A,Moderate,Squamous,1,76.1,137,18.3,33.6
+P458,B,Mild,Squamous,0,10.3,130,22.4,83.6
+P459,B,Mild,Large cell,1,41.9,134,25.2,72.4
+P460,B,Mild,Adenocarcinoma,1,59.4,95,23.3,69.9
+P461,B,Moderate,Small cell,0,13.5,134,14.6,74.5
+P462,A,Moderate,Large cell,0,19.9,161,13.5,23.8
+P463,A,Moderate,Adenocarcinoma,1,66.8,133,18.4,37.2
+P464,B,Mild,Adenocarcinoma,1,44.0,96,21.8,11.8
+P465,B,Mild,Adenocarcinoma,1,62.7,132,20.6,85.6
+P466,B,Mild,Squamous,1,55.8,89,19.9,84.5
+P467,B,Mild,Adenocarcinoma,1,44.2,118,27.3,8.6
+P468,A,Moderate,Other,0,13.1,139,13.6,74.9
+P469,A,Moderate,Squamous,1,51.6,149,20.8,31.0
+P470,A,Mild,Adenocarcinoma,0,16.4,127,18.4,28.0
+P471,A,Severe,Squamous,1,44.7,118,5.8,86.4
+P472,B,Severe,Squamous,0,6.5,140,9.8,30.6
+P473,A,Severe,Squamous,0,7.0,129,5.2,12.2
+P474,B,Mild,Adenocarcinoma,1,41.5,116,15.7,53.8
+P475,B,Mild,Adenocarcinoma,1,42.9,87,20.8,72.7
+P476,A,Mild,Adenocarcinoma,1,63.9,121,24.5,25.2
+P477,A,Moderate,Large cell,1,59.3,156,19.8,66.9
+P478,B,Moderate,Adenocarcinoma,1,51.6,141,20.3,90.7
+P479,A,Severe,Adenocarcinoma,0,-2.6,149,5.9,79.8
+P480,B,Moderate,Adenocarcinoma,1,54.1,123,15.3,37.9
+P481,A,Severe,Squamous,1,42.2,132,11.4,55.3
+P482,B,Mild,Other,1,49.7,98,16.4,3.5
+P483,A,Severe,Small cell,0,5.2,147,6.8,28.5
+P484,B,Mild,Small cell,1,51.9,117,13.9,2.2
+P485,A,Moderate,Adenocarcinoma,1,59.4,97,13.9,69.4
+P486,B,Mild,Squamous,1,50.6,112,22.9,4.8
+P487,A,Mild,Adenocarcinoma,1,59.4,134,23.6,23.8
+P488,A,Severe,Small cell,0,-1.7,138,12.4,42.0
+P489,B,Severe,Squamous,0,15.4,142,11.2,54.0
+P490,A,Severe,Squamous,0,2.2,170,11.5,62.9
+P491,B,Mild,Large cell,1,39.8,105,20.0,53.2
+P492,B,Mild,Adenocarcinoma,1,52.0,115,25.0,70.7
+P493,B,Mild,Small cell,0,12.7,126,26.2,31.5
+P494,B,Mild,Large cell,1,58.9,143,25.8,90.6
+P495,A,Mild,Large cell,1,66.0,110,21.7,27.2
+P496,A,Severe,Squamous,1,49.9,171,12.6,67.9
+P497,B,Moderate,Adenocarcinoma,0,17.3,123,11.6,73.6
+P498,A,Severe,Small cell,1,51.6,146,13.4,22.9
+P499,B,Moderate,Small cell,1,39.0,82,9.1,54.1
+P500,B,Moderate,Adenocarcinoma,1,51.8,112,12.5,93.3
+P501,A,Severe,Squamous,1,46.5,149,9.4,77.1
+P502,A,Severe,Other,0,9.8,151,11.8,77.3
+P503,A,Moderate,Adenocarcinoma,0,-5.6,153,17.7,64.9
+P504,B,Moderate,Squamous,1,40.0,135,16.4,71.0
+P505,B,Mild,Large cell,0,5.8,112,21.7,57.3
+P506,A,Severe,Small cell,0,9.6,129,10.5,40.2
+P507,B,Mild,Other,1,62.0,128,21.0,77.2
+P508,B,Mild,Squamous,1,41.9,108,22.6,72.1
+P509,B,Mild,Large cell,1,72.0,71,26.4,29.6
+P510,A,Severe,Adenocarcinoma,0,14.9,175,16.9,28.5
+P511,A,Moderate,Other,0,3.4,147,15.2,63.1
+P512,B,Moderate,Squamous,1,44.4,86,13.1,80.8
+P513,B,Mild,Small cell,1,47.2,111,21.9,78.3
+P514,A,Severe,Small cell,0,9.5,141,13.5,87.0
+P515,B,Moderate,Adenocarcinoma,1,45.8,143,17.8,32.7
+P516,A,Severe,Squamous,0,10.6,140,17.9,73.5
+P517,B,Moderate,Adenocarcinoma,1,45.2,144,18.3,43.9
+P518,B,Mild,Squamous,1,41.7,86,15.5,9.9
+P519,A,Moderate,Adenocarcinoma,0,5.4,80,11.9,69.4
+P520,A,Mild,Large cell,1,49.6,114,22.5,72.5
+P521,B,Severe,Adenocarcinoma,0,6.9,149,11.6,34.6
+P522,A,Severe,Squamous,1,74.5,164,5.8,54.9
+P523,B,Mild,Adenocarcinoma,1,47.2,87,24.0,73.2
+P524,B,Mild,Squamous,1,58.7,114,24.9,40.9
+P525,A,Severe,Squamous,0,1.3,131,14.5,72.0
+P526,B,Mild,Adenocarcinoma,1,46.5,111,22.1,73.8
+P527,B,Moderate,Adenocarcinoma,1,71.2,113,16.2,72.2
+P528,A,Severe,Adenocarcinoma,0,9.2,152,10.6,22.3
+P529,B,Mild,Small cell,1,42.0,138,29.2,58.1
+P530,A,Severe,Adenocarcinoma,1,51.8,149,8.8,79.5
+P531,B,Mild,Other,1,73.3,102,23.4,52.6
+P532,A,Severe,Adenocarcinoma,1,53.2,100,8.0,79.9
+P533,A,Moderate,Squamous,1,54.0,126,24.0,67.3
+P534,B,Mild,Adenocarcinoma,1,48.3,118,23.0,51.4
+P535,A,Moderate,Squamous,1,53.0,131,14.9,68.9
+P536,A,Moderate,Squamous,1,43.0,118,15.8,29.3
+P537,A,Severe,Other,0,19.0,114,8.2,67.4
+P538,A,Moderate,Large cell,1,44.3,100,12.1,65.2
+P539,B,Mild,Adenocarcinoma,1,42.7,97,24.4,72.7
+P540,A,Moderate,Adenocarcinoma,1,57.1,158,24.2,34.7
+P541,B,Mild,Large cell,1,64.2,101,21.5,84.6
+P542,B,Moderate,Adenocarcinoma,0,14.0,131,17.6,74.2
+P543,B,Severe,Large cell,1,49.0,170,15.0,63.7
+P544,B,Mild,Squamous,0,2.2,110,29.7,53.4
+P545,B,Moderate,Squamous,1,49.8,146,24.8,31.8
+P546,B,Mild,Adenocarcinoma,1,48.3,109,25.0,23.1
+P547,A,Mild,Squamous,1,57.8,116,24.2,80.4
+P548,B,Mild,Adenocarcinoma,1,72.4,92,22.5,40.3
+P549,A,Mild,Squamous,1,55.7,84,22.4,71.4
+P550,B,Mild,Adenocarcinoma,1,39.5,141,29.6,64.5
+P551,A,Severe,Small cell,0,11.1,156,10.6,21.9
+P552,B,Severe,Adenocarcinoma,1,56.4,164,8.6,77.7
+P553,A,Moderate,Adenocarcinoma,1,33.7,109,10.9,62.5
+P554,A,Moderate,Other,1,52.9,138,13.1,22.4
+P555,B,Mild,Small cell,1,36.8,121,27.5,86.8
+P556,A,Moderate,Other,1,51.9,143,17.8,84.7
+P557,B,Mild,Adenocarcinoma,1,64.0,118,19.6,79.2
+P558,A,Moderate,Squamous,1,47.6,134,23.2,71.1
+P559,A,Moderate,Adenocarcinoma,1,42.4,157,13.7,80.0
+P560,B,Mild,Other,1,62.7,109,21.8,46.3
+P561,B,Mild,Adenocarcinoma,1,48.9,127,25.3,22.5
+P562,B,Mild,Squamous,1,44.2,109,20.7,15.7
+P563,A,Severe,Adenocarcinoma,1,39.9,153,10.8,71.7
+P564,A,Moderate,Squamous,1,55.5,131,16.6,81.4
+P565,A,Severe,Squamous,0,5.2,128,10.7,67.5
+P566,B,Mild,Adenocarcinoma,1,49.1,118,24.5,49.0
+P567,B,Mild,Squamous,1,59.7,115,27.7,85.0
+P568,B,Moderate,Squamous,1,54.2,150,24.4,38.3
+P569,B,Mild,Adenocarcinoma,1,39.9,123,27.0,67.4
+P570,A,Severe,Adenocarcinoma,0,5.1,151,7.5,32.7
+P571,A,Moderate,Small cell,0,14.2,109,17.2,24.6
+P572,A,Severe,Adenocarcinoma,1,61.2,153,13.2,33.5
+P573,A,Severe,Adenocarcinoma,1,67.5,109,7.0,62.5
+P574,A,Severe,Squamous,1,64.3,152,9.8,58.8
+P575,B,Moderate,Small cell,1,67.1,125,10.3,77.1
+P576,B,Mild,Small cell,1,41.5,107,27.0,15.5
+P577,A,Severe,Squamous,0,3.6,129,11.0,30.1
+P578,B,Moderate,Small cell,0,10.6,116,16.3,63.1
+P579,B,Mild,Small cell,1,48.8,135,25.0,29.8
+P580,A,Severe,Large cell,1,59.1,156,13.5,23.4
+P581,B,Mild,Adenocarcinoma,1,46.7,109,27.1,69.8
+P582,B,Mild,Small cell,0,17.2,74,18.8,82.8
+P583,B,Mild,Large cell,0,14.7,75,14.8,81.0
+P584,B,Mild,Small cell,1,48.4,109,18.6,70.1
+P585,B,Severe,Squamous,1,33.4,142,14.9,97.0
+P586,B,Mild,Squamous,0,11.2,119,36.6,43.0
+P587,B,Moderate,Squamous,1,48.7,128,16.9,74.1
+P588,A,Severe,Adenocarcinoma,1,51.4,105,7.2,88.7
+P589,B,Moderate,Adenocarcinoma,1,65.2,121,17.9,10.3
+P590,A,Mild,Squamous,1,48.2,110,20.7,76.6
+P591,B,Severe,Adenocarcinoma,0,15.4,114,10.7,54.5
+P592,A,Mild,Small cell,1,41.0,97,15.8,24.2
+P593,B,Mild,Adenocarcinoma,1,64.5,116,16.4,59.7
+P594,A,Severe,Adenocarcinoma,0,12.4,138,2.6,70.6
+P595,B,Mild,Squamous,1,54.1,104,16.4,34.3
+P596,A,Moderate,Squamous,1,53.6,181,24.8,67.2
+P597,A,Severe,Squamous,1,59.8,157,12.5,31.8
+P598,A,Severe,Squamous,1,46.6,160,14.5,27.5
+P599,A,Severe,Squamous,1,39.8,154,7.2,32.2
+P600,B,Mild,Adenocarcinoma,1,55.6,112,17.4,72.8
+P601,B,Mild,Large cell,0,7.7,102,23.5,1.5
+P602,A,Severe,Small cell,1,48.6,129,10.6,76.9
+P603,A,Severe,Adenocarcinoma,0,10.1,140,18.3,57.5
+P604,A,Moderate,Small cell,1,60.8,122,17.8,38.2
+P605,B,Moderate,Adenocarcinoma,1,55.6,140,18.0,79.5
+P606,A,Severe,Squamous,0,15.2,154,10.2,78.9
+P607,B,Moderate,Adenocarcinoma,1,39.4,131,17.5,80.4
+P608,A,Moderate,Adenocarcinoma,1,58.9,144,22.4,30.7
+P609,B,Mild,Large cell,1,62.9,109,27.7,86.4
+P610,A,Severe,Adenocarcinoma,0,9.4,149,7.5,41.2
+P611,A,Severe,Other,0,18.6,142,8.0,27.5
+P612,B,Mild,Squamous,1,47.7,106,22.9,42.5
+P613,B,Mild,Squamous,1,69.5,114,27.4,0.3
+P614,B,Mild,Adenocarcinoma,1,60.8,123,22.6,73.2
+P615,B,Mild,Squamous,1,54.2,120,23.6,10.3
+P616,B,Mild,Adenocarcinoma,1,32.1,124,28.5,23.8
+P617,A,Severe,Large cell,1,54.6,148,13.5,64.2
+P618,B,Moderate,Adenocarcinoma,0,10.9,155,20.3,36.2
+P619,B,Mild,Adenocarcinoma,1,69.3,90,21.1,67.0
+P620,B,Mild,Squamous,1,46.7,94,25.2,12.7
+P621,B,Moderate,Other,0,5.8,134,18.4,17.4
+P622,B,Moderate,Squamous,1,45.7,162,22.2,67.9
+P623,A,Moderate,Adenocarcinoma,1,40.9,133,10.9,67.2
+P624,A,Mild,Adenocarcinoma,1,48.7,101,19.8,71.5
+P625,B,Mild,Squamous,1,60.1,107,18.4,50.9
+P626,A,Severe,Adenocarcinoma,1,53.6,161,16.3,29.3
+P627,B,Mild,Squamous,1,51.6,104,17.4,54.2
+P628,B,Mild,Large cell,1,39.1,112,22.3,52.7
+P629,B,Severe,Large cell,0,10.5,168,12.2,76.8
+P630,A,Mild,Squamous,1,54.6,97,17.1,73.2
+P631,B,Mild,Large cell,0,8.7,110,14.8,63.3
+P632,A,Severe,Squamous,1,60.7,130,11.9,21.7
+P633,B,Mild,Small cell,1,38.0,107,22.6,11.9
+P634,B,Moderate,Squamous,0,4.7,126,11.8,18.2
+P635,B,Mild,Adenocarcinoma,1,53.1,103,24.0,28.9
+P636,B,Mild,Squamous,0,13.2,119,20.1,38.3
+P637,B,Mild,Large cell,1,47.6,111,26.3,74.5
+P638,A,Moderate,Adenocarcinoma,1,56.7,134,22.6,3.6
+P639,B,Mild,Adenocarcinoma,1,41.6,110,17.3,82.7
+P640,A,Severe,Adenocarcinoma,0,11.5,150,11.5,29.9
+P641,B,Mild,Large cell,1,60.6,122,25.7,31.3
+P642,A,Moderate,Squamous,0,12.2,157,21.3,64.9
+P643,A,Severe,Squamous,0,15.2,153,9.4,32.6
+P644,B,Moderate,Other,1,57.6,126,21.2,43.6
+P645,A,Moderate,Small cell,1,44.0,164,21.0,70.8
+P646,B,Mild,Squamous,1,63.4,114,22.6,86.6
+P647,A,Severe,Small cell,0,8.7,154,11.6,75.9
+P648,A,Severe,Large cell,0,6.9,141,13.5,72.0
+P649,B,Mild,Squamous,1,53.5,90,22.0,34.9
+P650,A,Severe,Squamous,0,14.2,153,13.6,37.0
